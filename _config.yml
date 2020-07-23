@@ -40,7 +40,6 @@ defaults:
     values:
       is_post: true
       layout: post
-      permalink: /posts/:title/
   -
     scope:
       type: pages
