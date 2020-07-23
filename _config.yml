@@ -22,7 +22,7 @@ title: obsolete29
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Living life, doing stuff. PowerShell, O365, DevOps, Pester, git. A sysadmin trying find his way. Foosball, biking, hiking, reading. My cats are goblins.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://obsolete29.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: obsolete29
 github_username:  obsolete29
@@ -40,7 +40,6 @@ defaults:
     values:
       is_post: true
       layout: post
-      permalink: /blog/:title/
   -
     scope:
       type: pages
