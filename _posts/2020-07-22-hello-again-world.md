@@ -1,6 +1,6 @@
 ---
-title:  "Hello again world!"
-date:   2020-07-22 22:42:00 -0500
+title: "Hello again world!"
+date: 2020-07-22 22:42:00 -0500
 tags: technology
 ---
 
