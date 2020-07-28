@@ -30,7 +30,6 @@ permalink: /:categories/:title/ # Don't show the date of the post in the URL
 
 # Social
 twitter_username: obsolete29
-github_username: obsolete29
 
 # Build settings
 theme: minima
