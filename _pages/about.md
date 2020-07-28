@@ -8,7 +8,7 @@ Hello, I'm Mike! I work in IT as a SharePoint Developer/Engineer. I love writing
 
 Otherwise, I love riding bicycles, hiking, kayaking, playing foosball and reading. I enjoy writing about my outside adventures and consumer level information security and devices.
 
-I have two cats, who I commonly refer to as goblins. They're actually very sweet cats. I didn't realize cats could be like this; I thought they were all assholes.
+I have two cats, who I commonly refer to as goblins. They're actually very sweet cats. I didn't realize cats could be like this; I thought they were all assholes. This is an update.
 
 <figure>
   <img src="{{site.url}}/assets/mike-and-lily.jpeg" alt="my alt text"/>
