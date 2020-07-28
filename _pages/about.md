@@ -15,6 +15,4 @@ I have two cats, who I commonly refer to as goblins. They're actually very sweet
   <figcaption>Mike and Lily hanging on a Sunday morning.</figcaption>
 </figure>
 
-![Mike and Lily](/assets/mike-and-lily.jpeg)
-
 This site is built using [Jekyll](https://jekyllrb.com/).
