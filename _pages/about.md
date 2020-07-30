@@ -8,7 +8,7 @@ permalink: /about/
 
 ---
 
-I've been working in IT forever. I'm an old school sysadmin who graduated to being a SharePoint Administrator and now my fancy job title is Office 365 Develop/Engineer. Mostly, I just try to write lots of PowerShell to do all the things.
+I've been working in IT forever. I'm an old school sysadmin who graduated to being a SharePoint Administrator and now my fancy job title is Office 365 Developer/Engineer. Mostly, I just try to write lots of PowerShell to do all the things.
 
 ## A little more about me
 
