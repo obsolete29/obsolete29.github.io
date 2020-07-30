@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Hello, I'm Mike! I work in IT as a SharePoint Developer/Engineer. I love writing PowerShell to automate all the things.
+## Hello, I'm Mike!
+---
 
-Otherwise, I love riding bicycles, hiking, kayaking, playing foosball and reading. I enjoy writing about my outside adventures and consumer level information security and devices.
+I've been working in IT forever. I'm an old school sysadmin who graduated to being a SharePoint Administrator and now my fancy job title is Office 365 Develop/Engineer. Mostly, I just try to write lots of PowerShell to do all the things.
 
-I have two cats, who I commonly refer to as goblins. They're actually very sweet cats. I didn't realize cats could be like this; I thought they were all assholes. This is an update.
+### A little more about me...
 
-<figure>
-  <img src="/assets/mike-and-lily.jpeg" alt="my alt text"/>
-  <figcaption>Mike and Lily hanging on a Sunday morning.</figcaption>
-</figure>
-
-This site is built using [Jekyll](https://jekyllrb.com/).
+```powershell
+$mike = @{
+    pronouns = @('He','Him')
+    technologies = @('PowerShell','SharePoint','O365','PowerApps','PowerAutomate')
+    hobbies = @('bicycling','hiking','kayaking','foosball','reading','infosec')
+    cats = @('lily','sammie')
+}
+```
